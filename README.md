@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Carey (She/her)</h1>
 <h3 align="center">a software engineering grad student, passionate about scalable systems and AI-powered products</h3>
 
-- 🌱 I’m currently working on **building scalable systems and AI-driven application infrastructures**
+- 🌱 I’m currently working on **backend microservices, scalable system design, and AI/LLM application infrastructures**
 
 - 📫 Feel free to reach me **yifeiswe@gmail.com**
 
